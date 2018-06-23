@@ -3,4 +3,4 @@ ingresso.iml
 target/
 .classpath
 .project
-.settings/
+.settings/*.class
